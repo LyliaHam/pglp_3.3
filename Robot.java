@@ -8,7 +8,7 @@ Robot(Position p ,Direction d){
 		this.p = p;
 		}
 
-	public void tourne() {}
+	public void tourner() {}
 
-	public void avance() {}
+	public void avancer() {}
 	}
