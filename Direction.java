@@ -4,16 +4,16 @@ private String dir;
 Direction(String direction) {
 	this.dir = direction;
 }
-	void EAST() {
+	void EST() {
 	}
 
-	void SOUTH() {
+	void OUEST() {
 	}
 	
-	void WEST() {
+	void NORD () {
 	}
 	
-	void NORTH() {
+	void SUD () {
 	}
 	
 }
